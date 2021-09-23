@@ -1,6 +1,6 @@
 # ECHIDNA (echidna_obj)
 
-Echidna is a package for parsing .obj data models working with ADENITA - a nanoscience software tool application developed at the AIT by Elisa DeLlano and Haichao Miao - 
+Echidna is a package for parsing .obj data models working with ADENITA - a nanoscience software tool application developed at the AIT by DeLlano et al. - 
 and supports novel approaches in the design process for DNA nanostructures. The python package has an independent, built-in representation for abstract visualization of the model. 
 It is supposed to be used with the molecular modeling software SAMSON via the IPy console.
 (More informations here : www.samson-connect.net)
